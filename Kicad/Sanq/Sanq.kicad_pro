@@ -28,7 +28,8 @@
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
       "ICs",
-      "Sams"
+      "Sams",
+      "Passives"
     ]
   },
   "meta": {
